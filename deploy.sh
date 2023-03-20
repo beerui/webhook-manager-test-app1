@@ -1,5 +1,5 @@
 #! /bin/bash
-WEB_PATH=/data/app1
+WEB_PATH=/data/webhook-manager-test/webhook-manager-test-app1/
 echo "开始构建"
 cd $WEB_PATH
 echo "拉取main分支的代码"
