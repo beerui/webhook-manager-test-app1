@@ -11,7 +11,7 @@ defineProps({
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      成功测试！
+      成功！
       <a href="https://github.com/beerui/webhook-manager/" target="_blank" rel="noopener">webhook-manager</a> +
       <a href="https://github.com/beerui/webhook-manager-test-app1" target="_blank" rel="noopener">test project</a>.
     </h3>
